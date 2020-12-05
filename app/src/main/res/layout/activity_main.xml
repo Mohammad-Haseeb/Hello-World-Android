@@ -15,4 +15,14 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:layout_width="29dp"
+        android:layout_height="183dp"
+        android:layout_marginTop="100dp"
+        android:text="Hello!"
+        app:layout_constraintBottom_toBottomOf=""
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
